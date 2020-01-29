@@ -14,7 +14,7 @@ const config = {
 const pool = new Pool(config);
 
 const familiar1 = {
-    parentesco: 'Pareja',
+    parentesco: 'Esposa',
     edad: 28,
     trabaja: true,
 }
